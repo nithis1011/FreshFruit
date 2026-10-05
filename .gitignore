@@ -1,0 +1,15 @@
+# Database configuration
+config/database.php
+
+# Uploaded fruit images
+uploads/fruits/
+
+# Local environment files
+.env
+
+# XAMPP / local files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
